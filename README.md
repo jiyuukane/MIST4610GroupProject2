@@ -20,7 +20,7 @@
 ## Analysis and Results for Question Two (Claire)
 Analysis: 
 After looking at the scatterplot and trend lines it was apparent that urban counties (the blue points and trendline) show the highest case growth relative to population growth. The rural counties (red points and line) had moderate case growth relative to population growth. The case growth increased more with population growth thatn suburban counties, but less than urban ones. Suburban counties (purple line and points) had the lowest case growth relative to population growth. They hade an even smaller increase in case numbers when population growth was higher. 
-Potential Explanation:
+#Potential Explanation:
 The congestion of urban infrastructure will significantly increase the flow of infectious disease cases and population. 
 Suburban density seems to allow a controlled growth environment for population while controlling the flow of diseases.
 Rural areas tend to show more data variance due to smaller populations and a higher sensitivity to localized outbreaks. 
