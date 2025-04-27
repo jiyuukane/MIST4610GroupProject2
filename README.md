@@ -4,7 +4,7 @@
 ##### Nabeel Sadiq [NabeelSadiq](https://www.github.com/Nabeel470)
 ##### Joshua Libatique [JoshuaLibatique](https://www.github.com/jiyuukane)
 ##### Anthony Lopez [AnthonyLopez](https://www.github.com/asl58391)
-##### Ethan Payne
+##### Ethan Payne [EthanPayne](https://github.com/EthanPayne27)
 ##### Claire Stockman [ClaireStockman](https://www.github.com/clairestockman)
 
 ## Dataset Description (Tony)
