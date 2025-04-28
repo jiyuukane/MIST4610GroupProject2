@@ -78,6 +78,17 @@ Several factors help explain these patterns. In general, higher population densi
 
 
 ## Analysis and Results for Question Two (Claire)
+<img width="312" alt="Screenshot 2025-04-27 at 8 03 56 PM" src="https://github.com/user-attachments/assets/c91eb1bd-212a-4ada-ae14-2f8faddf12f5" />
+
+Analysis: 
+- After looking at the scatterplot and trend lines it was apparent that urban counties (the blue points and trendline) show the highest case growth relative to population growth.
+- The rural counties (red points and line) had moderate case growth relative to population growth.The case growth increased more with population growth thatn suburban counties, but less than urban ones.
+- Suburban counties (purple line and points) had the lowest case growth relative to population growth. They hade an even smaller increase in case numbers when population growth was higher. 
+
+Potential Explanation:
+- The congestion of urban infrastructure will significantly increase the flow of infectious disease cases and population. 
+- Suburban density seems to allow a controlled growth environment for population while controlling the flow of diseases.
+- Rural areas tend to show more data variance due to smaller populations and a higher sensitivity to localized outbreaks. 
 
 
 
